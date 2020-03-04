@@ -6,9 +6,9 @@
 
 ### Version Information #
 ###################################################
-### Version: V4.2020.02.1988
-### Updated: Sun Feb 16 21:43:44 SAST 2020
-### Bad Bot Count: 562
+### Version: V4.2020.03.2005
+### Updated: Wed Mar  4 21:53:02 SAST 2020
+### Bad Bot Count: 564
 ###################################################
 ### Version Information ##
 
@@ -52,6 +52,8 @@ Disallow:/
 User-agent: AlphaBot
 Disallow:/
 User-agent: Anarchie
+Disallow:/
+User-agent: Ankit
 Disallow:/
 User-agent: Apexoo
 Disallow:/
@@ -714,6 +716,8 @@ Disallow:/
 User-agent: Pockey
 Disallow:/
 User-agent: POE-Component-Client-HTTP
+Disallow:/
+User-agent: polaris version
 Disallow:/
 User-agent: Probethenet
 Disallow:/
